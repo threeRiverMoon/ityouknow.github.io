@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.ityouknow.com/assets/images/jianghustyle.jpg)
+![](http://www.jianghustyle.com/assets/images/jianghustyle.jpg)
