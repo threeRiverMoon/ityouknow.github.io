@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: threeRiverMoon/threeRiverMoon.github.io
 github_url: https://github.com/threeRiverMoon
-url: http://www.jianghustyle.com
-enforce_ssl: jianghustyle.com
+url: http://www.ityouknow.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
